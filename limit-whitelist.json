@@ -1,0 +1,10 @@
+{
+  "Conns": 16,
+  "ConnsInbound": 8,
+  "ConnsOutbound": 16,
+  "FD": 8,
+  "Memory": 134217728,
+  "Streams": 1024,
+  "StreamsInbound": 512,
+  "StreamsOutbound": 1024
+}

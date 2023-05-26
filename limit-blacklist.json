@@ -1,0 +1,10 @@
+{
+  "Conns": 1,
+  "ConnsInbound": 1,
+  "ConnsOutbound": 1,
+  "FD": 2,
+  "Memory": 100000,
+  "Streams": 2,
+  "StreamsInbound": 2,
+  "StreamsOutbound": 2
+}
